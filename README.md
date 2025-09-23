@@ -3,7 +3,8 @@
 🎓 **First year undergraduate student**
 **BE Computer Science and Engineering @ Thiagarajar College Of Engineering**
 
-💻 Exploring Python, C++, and Data Science  
+💻 Passionate about code and technology
+(Exploring Computer Science) 
 🚀 On a journey to become a software developer
 
 ---

@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sri Sabarish 👋
 
-<!--
-**Sri-Sabarish/Sri-Sabarish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First year undergraduate student**
+**BE Computer Science and Engineering @ Thiagarajar College Of Engineering**
+💻 Exploring Python, C++, and Data Science  
+🚀 On a journey to become a software developer
 
-Here are some ideas to get you started:
+---
+## 🛠️ Skills & Tools
+- Python, C++,C
+- Jupyter Notebook
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 My Projects
+- [Python Programs](https://github.com/Sri-Sabarish/Python_Programs): Practice and learning exercises in Python
+- [C++ Programs](https://github.com/Sri-Sabarish/C-plus-plus-Programs): Fundamental C++ programs and examples
+- [Pandas Program](https://github.com/Sri-Sabarish/pandas-program): Data analysis practice with pandas
+  ---
+
+*“Learning is a journey, not a destination!”*
+

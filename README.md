@@ -8,7 +8,7 @@
 🚀 On a journey to become a software developer
 
 ---
-## My linkedin profile:
+## My LinkedIn profile:
 - www.linkedin.com/in/sri-sabarish-n
 
 ---

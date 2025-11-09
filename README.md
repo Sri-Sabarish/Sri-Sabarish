@@ -8,6 +8,10 @@
 🚀 On a journey to become a software developer
 
 ---
+## linkedin profile:
+-www.linkedin.com/in/sri-sabarish-n
+
+---
 ## 🛠️ Skills & Tools
 - Python, C++,C
 - Jupyter Notebook

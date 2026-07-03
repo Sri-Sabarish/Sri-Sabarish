@@ -33,11 +33,17 @@
 
 ## 📂 Featured Projects
 
-- 🌐 **HTML Portfolio** – My first portfolio website built while learning HTML.
-- 🐍 **Python Basics** – Practice programs covering Python fundamentals.
-- 💻 **C++ Basics** – Beginner-friendly C++ programs and concepts.
-- 🐼 **Pandas Basics** – Learning data analysis with Pandas through Jupyter Notebooks.
+- 🌐 **[HTML Portfolio](https://github.com/Sri-Sabarish/html-portfolio)**  
+  My first personal portfolio website built while learning HTML.
 
+- 🐍 **[Python Basics](https://github.com/Sri-Sabarish/python-basics)**  
+  A collection of beginner-friendly Python programs and practice exercises.
+
+- 💻 **[C++ Basics](https://github.com/Sri-Sabarish/cpp-basics)**  
+  Fundamental C++ programs created during my early programming journey.
+
+- 🐼 **[Pandas Basics](https://github.com/Sri-Sabarish/pandas-basics)**  
+  Practice notebooks covering the fundamentals of Pandas using Jupyter Notebook.
 ---
 
 ## 🎯 Current Focus

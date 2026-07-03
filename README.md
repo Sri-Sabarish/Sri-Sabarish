@@ -31,19 +31,21 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Repositories
+
+> **Note:** These repositories represent my learning journey as I explore programming, development tools, and new technologies. They contain the programs, exercises, and practice notebooks I created while building my fundamentals. As I continue to learn and grow, I'll be creating more meaningful and impactful projects.
 
 - 🌐 **[HTML Portfolio](https://github.com/Sri-Sabarish/html-portfolio)**  
-  My first personal portfolio website built while learning HTML.
+  A simple personal portfolio website built while learning the fundamentals of HTML.
 
 - 🐍 **[Python Basics](https://github.com/Sri-Sabarish/python-basics)**  
-  A collection of beginner-friendly Python programs and practice exercises.
+  A collection of beginner-friendly Python programs covering core programming concepts.
 
 - 💻 **[C++ Basics](https://github.com/Sri-Sabarish/cpp-basics)**  
-  Fundamental C++ programs created during my early programming journey.
+  Practice programs demonstrating the fundamentals of C++ programming and problem-solving.
 
 - 🐼 **[Pandas Basics](https://github.com/Sri-Sabarish/pandas-basics)**  
-  Practice notebooks covering the fundamentals of Pandas using Jupyter Notebook.
+  Jupyter Notebook exercises exploring the basics of data manipulation and analysis using Pandas.
 ---
 
 ## 🎯 Current Focus

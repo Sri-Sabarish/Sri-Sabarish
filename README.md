@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sri Sabarish
+# Hi 👋, I'm Sri Sabarish N
 
 ### Computer Science Engineering Student | Aspiring Software Developer
 

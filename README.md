@@ -1,63 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sri Sabarish</h1>
-<h3 align="center">Computer Science Engineering Student | AI & Software Development Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Sri-Sabarish">
-    <img src="https://komarev.com/ghpvc/?username=Sri-Sabarish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+# Hi 👋, I'm Sri Sabarish
+
+### Computer Science Engineering Student | Aspiring Software Developer
+
+*Passionate about coding, problem-solving, and building impactful software.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-sabarish-n/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srisabarish1911@gmail.com)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Computer Science & Engineering @ **Thiagarajar College of Engineering**
-- 💡 Passionate about **Artificial Intelligence, Software Development, and Problem Solving**
-- 🌱 Currently exploring **Web Development, AI, Agentic AI, and Data Science**
-- 🚀 Building projects to strengthen my development skills
-
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,git,github,vscode" />
-</p>
+- 🎓 B.E. Computer Science & Engineering student at **Thiagarajar College of Engineering**
+- 💡 Passionate about software development, artificial intelligence, and problem-solving
+- 🌱 Currently learning **Web Development, Data Structures & Algorithms, AI, and Machine Learning**
+- 🚀 Always eager to learn new technologies and build meaningful projects
+- 🤝 Open to collaboration on interesting projects and open-source contributions
 
 ---
 
-## 📌 Featured Repositories
-
-- 🐍 **Python Basics** – Beginner-friendly Python programs and practice exercises
-- 💻 **C++ Basics** – Fundamental C++ concepts and problem-solving programs
-- 🐼 **Pandas Basics** – Learning data analysis using Pandas
-- 🌐 **HTML Portfolio** – My first portfolio website built while learning HTML
-
----
-
-## 📈 GitHub Stats
+## 💻 Languages & Tools
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sri-Sabarish&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Sabarish&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,git,github,vscode,jupyter" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 📂 Featured Projects
 
-<p>
-<a href="https://www.linkedin.com/in/sri-sabarish-n/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="mailto:srisabarish1911@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
+- 🌐 **HTML Portfolio** – My first portfolio website built while learning HTML.
+- 🐍 **Python Basics** – Practice programs covering Python fundamentals.
+- 💻 **C++ Basics** – Beginner-friendly C++ programs and concepts.
+- 🐼 **Pandas Basics** – Learning data analysis with Pandas through Jupyter Notebooks.
 
 ---
 
-<p align="center">
-<i>"Code with curiosity. Build with purpose. Keep learning."</i>
-</p>
+## 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Web Development
+- 📊 Data Analysis
+- 💻 Software Development
+- 🌱 Continuous Learning
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+*"Keep learning, keep building, and keep growing."*
+
+</div>

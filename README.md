@@ -35,6 +35,9 @@
 
 > **Note:** These repositories represent my learning journey as I explore programming, development tools, and new technologies. They contain the programs, exercises, and practice notebooks I created while building my fundamentals. As I continue to learn and grow, I'll be creating more meaningful and impactful projects.
 
+- 🔥 **[CLI-Based Habit Tracker](https://github.com/Sri-Sabarish/Habit_Tracker)**
+A command-line Habit Tracker built using Python and SQLite that allows users to track habits, monitor streaks, and measure consistency while applying concepts such as database operations, modular programming, and date handling.
+
 - 🌐 **[HTML Portfolio](https://github.com/Sri-Sabarish/html-portfolio)**  
   A simple personal portfolio website built while learning the fundamentals of HTML.
 
